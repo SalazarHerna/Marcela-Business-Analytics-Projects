@@ -20,5 +20,5 @@ A collection of data-driven projects showcasing my analytics skills along toolse
 ### Data Visualization Dashboards: Tableau & PowerBi.
 ### Experiments and Causal Methods Project.
 ### @Risk Scenario Analysis.
-### Optimization Projects.
+
 
