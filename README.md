@@ -13,7 +13,7 @@ A collection of data-driven projects showcasing my analytics skills along toolse
 | [Feature Engineering to Predict Freight Delay Risk](https://github.com/SalazarHerna/Feature-Engineering-to-Predicted-Freight-Delay-Risk) | Python, Random Forest | Supply Chain, Risk Modeling | Built a predictive model for freight delivery delays using engineered logistic and financial features. Enables risk-based insurance pricing. |
 | [ML - Predicting Workers’ Productivity](https://github.com/SalazarHerna/ML-Predicting-Worker-s-Productivity) | Python, Random Forest Regressor & Classifier | Workforce Analytics | Predicts garment workers’ productivity to support optimization in team assignments and production planning. |
 | [Cloud-Based Financial Analytics Pipeline for Bankruptcy Prediction](https://github.com/SalazarHerna/Cloud-Based-Financial-Analytics-Pipeline-for-Bankruptcy-Prediction) | AWS (S3, Glue, Redshift, SageMaker Canvas) | Financial Analytics, ML Pipelines | A full-stack pipeline for financial data centralization and bankruptcy risk prediction using AWS services. |
-
+| [Predictive-Model-Optimization in Screen Print Operations](https://github.com/SalazarHerna/Predictive-Model-Optimization)) | Python (Pyomo, CBC Solver) | MIP Optimization | MIP to maximize profit while balancing machine workloads, minimizing costs, and meeting production deadlines. |
 ---
 
 ## In progress: Soon to come!
