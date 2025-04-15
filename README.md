@@ -17,8 +17,8 @@ A collection of data-driven projects showcasing my analytics skills along toolse
 ---
 
 ## In progress: Soon to come!
-###Data Visualization Dashboards - Tableau & Power Bi.
-###Experiments and Causal Methods Project.
-###@Risk Scenario Analysis.
-###Optimization Projects.
+### Data Visualization Dashboards - Tableau & Power Bi.
+### Experiments and Causal Methods Project.
+### @Risk Scenario Analysis.
+### Optimization Projects.
 
