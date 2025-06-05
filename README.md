@@ -16,9 +16,6 @@ A collection of data-driven projects showcasing my analytics skills along toolse
 | [Predictive-Model-Optimization in Screen Print Operations](https://github.com/SalazarHerna/Predictive-Model-Optimization) | Python (Pyomo, CBC Solver) | MIP Optimization | MIP to maximize profit while balancing machine workloads, minimizing costs, and meeting production deadlines. |
 ---
 
-## In progress: Soon to come!
-### Data Visualization Dashboards: Tableau & PowerBi.
-### Experiments and Causal Methods Project.
-### @Risk Scenario Analysis.
+
 
 
